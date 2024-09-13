@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Trend Haircut",
+      "icon": "FaScissors",
+      "imageName": "slide1.webp",
+      "content": "Content for Trend Haircut"
+    },
+    {
+      "name": "Hair Washing",
+      "icon": "FaWandSparkles",
+      "imageName": "slide2.webp",
+      "content": "Content for Hair Washing"
+    },
+    {
+      "name": "Hair Color",
+      "icon": "HiColorSwatch",
+      "imageName": "slide3.webp",
+      "content": "Content for Hair Color"
+    },
+    {
+      "name": "Facial hair trim",
+      "icon": "FaRegFaceSmileBeam",
+      "imageName": "slide1.webp",
+      "content": "Content for Facial Hair Trim"
+    },
+    {
+      "name": "Lather shave",
+      "icon": "GiRazor",
+      "imageName": "slide2.webp",
+      "content": "Content for Lather Shave"
+    },
+    {
+      "name": "Head Massage",
+      "icon": "FaHands",
+      "imageName": "slide3.webp",
+      "content": "Content for Head Massage"
+    }
+  ]
