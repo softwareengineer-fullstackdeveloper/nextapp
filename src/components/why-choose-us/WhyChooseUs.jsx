@@ -10,7 +10,7 @@ const WhyChooseUs = () => {
             Why Choose Us?
           </h1>
           <p className="text-xl sm:text-2xl font-medium leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-gray-100 text-opacity-80">
-            At Salon Name, we're dedicated to providing an exceptional grooming
+            At Salon Name, we&apos;re dedicated to providing an exceptional grooming
             experience for men.
           </p>
           <div className="flex mt-6 justify-center">
@@ -85,7 +85,7 @@ const WhyChooseUs = () => {
                 Attention to Detail
               </h2>
               <p className="leading-relaxed text-base text-zinc-700 dark:text-white">
-                We're meticulous about every aspect of your grooming experience,
+                We&apos;re meticulous about every aspect of your grooming experience,
                 ensuring you leave feeling refreshed and revitalized.
               </p>
             </div>
