@@ -12,7 +12,7 @@ const CTASection = () => {
           Ready to Experience the Ultimate Grooming Destination?
           </p>
           <p className="text-center text-base sm:text-lg font-medium text-zinc-700 dark:text-gray-400 mt-2">
-          Take the first step towards transforming your look and feeling your best. Book your appointment today and discover why Salon Name is the go-to destination for men's grooming.
+          Take the first step towards transforming your look and feeling your best. Book your appointment today and discover why Salon Name is the go-to destination for men&apos;s grooming.
           </p>
           <div className="flex justify-center mt-4">
             <div className="w-16 h-1 rounded-full bg-yellow-500 inline-flex"></div>
