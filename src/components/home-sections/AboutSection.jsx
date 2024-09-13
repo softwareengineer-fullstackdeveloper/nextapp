@@ -34,7 +34,7 @@ const AboutSection = () => {
                 From stylish haircuts and precision shaving to rejuvenating spa
                 treatments and personalized grooming advice, we offer a
                 comprehensive range of services designed to help you look and
-                feel your absolute best. Whether you're a busy professional, a
+                feel your absolute best. Whether you&apos;re a busy professional, a
                 stylish socialite, or simply someone who appreciates the finer
                 things in life, we invite you to experience the
                 <span> Salon Name</span> difference.
@@ -42,12 +42,12 @@ const AboutSection = () => {
               <h3 className="mb-4">Our Values:</h3>
               <ul>
                 <li>
-                  <strong>Quality:</strong> We're committed to delivering
+                  <strong>Quality:</strong> We&apos;re committed to delivering
                   exceptional service and unparalleled quality in everything we
                   do.
                 </li>
                 <li>
-                  <strong>Style:</strong> We're passionate about helping you
+                  <strong>Style:</strong> We&apos;re passionate about helping you
                   look and feel your absolute best.
                 </li>
                 <li>
@@ -55,7 +55,7 @@ const AboutSection = () => {
                   be a rejuvenating experience, not a chore.
                 </li>
                 <li>
-                  <strong>Community:</strong> We're dedicated to building a
+                  <strong>Community:</strong> We&apos;re dedicated to building a
                   welcoming and inclusive environment for all our clients.
                 </li>
               </ul>

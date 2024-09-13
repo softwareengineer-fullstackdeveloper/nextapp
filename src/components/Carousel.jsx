@@ -45,7 +45,7 @@ const Carousel = () => {
   useEffect(() => {
     const interval = setInterval(() => {
       goToNext();
-    }, 5000); // Change slide every 5 seconds
+    }, 5000);
     return () => clearInterval(interval);
   }, [currentIndex]);
 
